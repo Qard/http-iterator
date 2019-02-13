@@ -1,5 +1,7 @@
 # http-iterator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/http-iterator.svg)](https://greenkeeper.io/)
+
 Convert http servers to async iterators.
 
 ## Install
