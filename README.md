@@ -12,6 +12,8 @@ npm install http-iterator
 
 ## API
 
+All functions in this module return CSP channels via [channel-surfer](https://npmjs.org/package/channel-surfer).
+
 ### `httpIterator(server)`
 
 ```js
