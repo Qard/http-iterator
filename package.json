@@ -1,6 +1,6 @@
 {
   "name": "http-iterator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert http servers to async iterators",
   "main": "index.js",
   "scripts": {
