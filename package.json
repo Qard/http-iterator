@@ -17,7 +17,7 @@
   "author": "Stephen Belanger <admin@stephenbelanger.com> (https://github.com/qard)",
   "license": "MIT",
   "dependencies": {
-    "channel-surfer": "^2.0.1"
+    "channel-surfer": "^2.1.0"
   },
   "devDependencies": {
     "codecov": "^3.2.0",
